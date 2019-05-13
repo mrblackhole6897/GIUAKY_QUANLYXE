@@ -1,0 +1,186 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\2d2868f4e76a2abaf87fc43121a596ea\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\a59a6256eaff503cd810b12b768ab11a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\cd40bb7c52d2697ac65337c9638fd4ee\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\af2ca9d0d54404afa88b390dbffa47f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\79d46bd05bb0bf46c85fbb7cb384a6a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\471c1a76c588fa7d2a051f42f47542d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\3869cee454457973a5b3e3f92ed20d61\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\86ef1facadc86bb4c9f08ef9ff91c035\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\587140ba4b719627eb9ceb40c7e347bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\d652d484cb1f14b5c77c6dca03d332f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\c1978dc0c32c8552315d3cdf103e9cb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\1224030df7f83086cf979ef73199b15a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\4771890836f20cc566ce471bb01c970c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\1f6fd66936328818e2665bbed012f098\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\9c069f875f6a8de0eb86396189098b21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\4c9005ac7c1c83ee757247983bf864ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\5bab77802d13cd303bc605dbdc6c4a26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\2e55fba2a1243c43ddbfe965c7a305c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\6f0f5f3e55000e878c73242d7f6a3c02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\85726fe7cefef4132d0fa4dfab98776b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\caec7cb21600b9bc685e2569b661233c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\e1447fe72290578e54e44b89c6b73eed\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\c23585a36fdea92645ae58bcc437b785\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\07d2f4aa03458767c205354b74a5da42\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\fa0e5903a9cbcbe3107844997bd9c629\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\d0fa5acca3380f05b0f1c05dd82b525b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\8dfe5c610140c542389d409d3a613a4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\a067aa5d674b0ca30a324cefbdb76b32\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\affbbd314d01b12679edae0546c88afb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\c6e0d80532f0b39e0e7100f810b6b0bc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\ed48e147c212f3f5a2abb9b72c489c10\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\050749f05566abb38f37941903817259\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\dc700ed4e96823bed7bc46eb7a6ecf73\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:6:5-22:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\2d2868f4e76a2abaf87fc43121a596ea\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\2d2868f4e76a2abaf87fc43121a596ea\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\cd40bb7c52d2697ac65337c9638fd4ee\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\cd40bb7c52d2697ac65337c9638fd4ee\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\caec7cb21600b9bc685e2569b661233c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\caec7cb21600b9bc685e2569b661233c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\e1447fe72290578e54e44b89c6b73eed\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\e1447fe72290578e54e44b89c6b73eed\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\caec7cb21600b9bc685e2569b661233c\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.quanlyxe.ChiTietDDHActivity
+ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:13:9-65
+	android:name
+		ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:13:19-53
+activity#com.example.quanlyxe.XeActivity
+ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:14:9-48
+	android:name
+		ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:14:19-45
+activity#com.example.quanlyxe.MainActivity
+ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\2d2868f4e76a2abaf87fc43121a596ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\2d2868f4e76a2abaf87fc43121a596ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\a59a6256eaff503cd810b12b768ab11a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\a59a6256eaff503cd810b12b768ab11a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\cd40bb7c52d2697ac65337c9638fd4ee\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\cd40bb7c52d2697ac65337c9638fd4ee\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\af2ca9d0d54404afa88b390dbffa47f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\af2ca9d0d54404afa88b390dbffa47f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\79d46bd05bb0bf46c85fbb7cb384a6a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\79d46bd05bb0bf46c85fbb7cb384a6a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\471c1a76c588fa7d2a051f42f47542d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\471c1a76c588fa7d2a051f42f47542d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\3869cee454457973a5b3e3f92ed20d61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\3869cee454457973a5b3e3f92ed20d61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\86ef1facadc86bb4c9f08ef9ff91c035\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\86ef1facadc86bb4c9f08ef9ff91c035\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\587140ba4b719627eb9ceb40c7e347bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\587140ba4b719627eb9ceb40c7e347bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\d652d484cb1f14b5c77c6dca03d332f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\d652d484cb1f14b5c77c6dca03d332f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\c1978dc0c32c8552315d3cdf103e9cb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\c1978dc0c32c8552315d3cdf103e9cb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\1224030df7f83086cf979ef73199b15a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\1224030df7f83086cf979ef73199b15a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\4771890836f20cc566ce471bb01c970c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\4771890836f20cc566ce471bb01c970c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\1f6fd66936328818e2665bbed012f098\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\1f6fd66936328818e2665bbed012f098\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\9c069f875f6a8de0eb86396189098b21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\9c069f875f6a8de0eb86396189098b21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\4c9005ac7c1c83ee757247983bf864ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\4c9005ac7c1c83ee757247983bf864ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\5bab77802d13cd303bc605dbdc6c4a26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\5bab77802d13cd303bc605dbdc6c4a26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\2e55fba2a1243c43ddbfe965c7a305c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\2e55fba2a1243c43ddbfe965c7a305c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\6f0f5f3e55000e878c73242d7f6a3c02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\6f0f5f3e55000e878c73242d7f6a3c02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\85726fe7cefef4132d0fa4dfab98776b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\85726fe7cefef4132d0fa4dfab98776b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\caec7cb21600b9bc685e2569b661233c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\caec7cb21600b9bc685e2569b661233c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\e1447fe72290578e54e44b89c6b73eed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\e1447fe72290578e54e44b89c6b73eed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\c23585a36fdea92645ae58bcc437b785\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\c23585a36fdea92645ae58bcc437b785\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\07d2f4aa03458767c205354b74a5da42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\07d2f4aa03458767c205354b74a5da42\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\fa0e5903a9cbcbe3107844997bd9c629\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\fa0e5903a9cbcbe3107844997bd9c629\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\d0fa5acca3380f05b0f1c05dd82b525b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\d0fa5acca3380f05b0f1c05dd82b525b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\8dfe5c610140c542389d409d3a613a4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\8dfe5c610140c542389d409d3a613a4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\a067aa5d674b0ca30a324cefbdb76b32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\a067aa5d674b0ca30a324cefbdb76b32\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\affbbd314d01b12679edae0546c88afb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\affbbd314d01b12679edae0546c88afb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\c6e0d80532f0b39e0e7100f810b6b0bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\c6e0d80532f0b39e0e7100f810b6b0bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\ed48e147c212f3f5a2abb9b72c489c10\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\ed48e147c212f3f5a2abb9b72c489c10\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\050749f05566abb38f37941903817259\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\050749f05566abb38f37941903817259\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\dc700ed4e96823bed7bc46eb7a6ecf73\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hungs\.gradle\caches\transforms-2\files-2.1\dc700ed4e96823bed7bc46eb7a6ecf73\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hungs\Downloads\NganHang-and\QUANLYXE\app\src\main\AndroidManifest.xml
